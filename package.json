@@ -1,0 +1,19 @@
+{
+  "name": "dianzan",
+  "version": "v4.0.0-alpha.1",
+  "description": "qq area dianzan",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.45.0",
+    "express": "^4.16.3",
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.2.4",
+    "selenium-webdriver": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
